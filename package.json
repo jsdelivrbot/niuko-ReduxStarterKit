@@ -22,6 +22,7 @@
     "jquery": "^3.3.1",
     "jsdom": "^8.1.0",
     "mocha": "^2.4.5",
+    "material-ui": "^0.20.0",
     "node-sass-json-importer": "^3.1.5",
     "react-addons-test-utils": "^0.14.7",
     "webpack": "^3.8.1",
@@ -35,11 +36,11 @@
     "babel-preset-stage-1": "^6.1.18",
     "cache-loader": "^1.2.2",
     "dotenv-webpack": "^1.5.5",
-    "lodash": "^3.10.1",
-    "react": "^0.14.3",
-    "react-dom": "^0.14.3",
-    "react-redux": "4.3.0",
-    "react-router": "^2.0.1",
+    "lodash": "^4.17.5",
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0",
+    "react-redux": "^5.0.7",
+    "react-router": "^4.2.0",
     "redux": "^3.0.4"
   }
 }
